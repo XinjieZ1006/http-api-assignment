@@ -28,7 +28,7 @@ const sendFetch = async (url, type) => {
         handleResponse(response);
     }
     catch {
-        console.log('oopsie there is an error');
+        console.log('oopsie there is an error...');
     }
 }
 
